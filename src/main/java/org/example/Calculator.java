@@ -1,4 +1,4 @@
-package com.wakeb;
+package org.example;
 
 public class Calculator {
 
