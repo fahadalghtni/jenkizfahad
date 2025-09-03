@@ -12,7 +12,7 @@ tools {
 	stages {
 		stage('Checkout') {
 			steps {
-				git branch: 'master',
+				git branch: 'main',
 				url: 'https://github.com/fahadalghtni/jenkizfahad.git'
 			}
 		}
